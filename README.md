@@ -37,3 +37,7 @@
 
 ```lua
 ensure mo-foodmenu
+
+## Showcase
+
+[![Watch the video](https://img.youtube.com/vi/bpx8jz/0.jpg)](https://streamable.com/bpx8jz)
