@@ -1,7 +1,7 @@
 
 # mo-foodmenu
 
-`mo-foodmenu` is a script designed for FiveM servers that adds interactive food menus for various restaurants and food trucks in the game. This script uses the `qtarget` resource to create target zones where players can view food menus through simple interactions.
+`mo-foodmenu` is a script designed for FiveM servers that adds interactive food menus for various restaurants and food trucks in the game. This script uses the `ox_target` or `qtarget` resource to create target zones where players can view food menus through simple interactions.
 
 ## Features
 
@@ -26,6 +26,8 @@
 
 ## Requirements
 
+- **ox_target**: Ensure that the `ox_target` resource is installed and properly configured on your server.
+- OR
 - **qtarget**: Ensure that the `qtarget` resource is installed and properly configured on your server.
 
 ## Installation
